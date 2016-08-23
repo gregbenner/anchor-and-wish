@@ -1,6 +1,6 @@
 {
   "name": "Anchor & Wish",
   "tagline": "Web Development Consultant Services by Greg Benner",
-  "body": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZVGMBA6QEB9CW\">Donate</a>",
+  "body": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZVGMBA6QEB9CW\">Donate</a>\r\n\r\n<form action=\"https://fogpay.com/payment_api/payment\" method=\"POST\">\r\n<input type=\"hidden\" name=\"account_username\" value=\"gnb001\">\r\n<input type=\"hidden\" name=\"amount\" value=\"1\">\r\n<input type=\"hidden\" name=\"trans_type\" value=\"payment\">\r\n<input type=\"hidden\" name=\"item_id\" value=\"blah\">\r\n<input type=\"hidden\" name=\"item_name\" value=\"blah\">\r\n<input type=\"submit\" value=\"Submit Payment\">\r\n</form>\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
